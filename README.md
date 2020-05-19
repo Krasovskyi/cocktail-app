@@ -3,7 +3,6 @@
 Cocktail World!
 
 ![GitHub Logo](/images/github-logo.png)
-Format: ![Alt Text](url)
 
 ## Project setup
 ```
