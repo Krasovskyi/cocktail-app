@@ -2,7 +2,7 @@
 
 Cocktail World!
 
-![GitHub Logo](/public/github-logo.png)
+![GitHub Logo](/public/github_logo.png)
 
 ## Project setup
 ```
