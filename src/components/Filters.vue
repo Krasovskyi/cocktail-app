@@ -83,7 +83,6 @@
     }
     .filter__title:before {
         border-radius: 4px!important;
-        border-color: #acacac!important;
     }
 
     @media screen and (max-width: 880px) {
